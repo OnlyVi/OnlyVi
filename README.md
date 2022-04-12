@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vi
+- 👀 I’m interested in cybersecurity,game development and other stuffs 
+- 🌱 I’m currently learning c/c++
+- 💞️ I’m looking to collaborate on nothing for now
